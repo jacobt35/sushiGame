@@ -112,7 +112,7 @@ public class BeltView extends JLabel implements BeltObserver, ActionListener {
 			plateFrame.add(chef);
 			plateFrame.add(age);
 			
-			plateFrame.setSize(600, 200);
+			plateFrame.setSize(5000, 200);
 			
 			plateFrame.setVisible(true);
 			plateFrame.setDefaultCloseOperation(JFrame.HIDE_ON_CLOSE);

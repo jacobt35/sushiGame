@@ -443,6 +443,7 @@ public class PlayerChefView extends JPanel implements ActionListener {
 	sushiSlider.setValue(0);
 	nonRollSlider.setValue(0);
 	plateSlider.setValue(0);
+	goldPrice.setValue(0);
 	for(int i = 0; i < ingAmount.length; i++) {
 		ingAmount[i].setValue(0);
 		}
