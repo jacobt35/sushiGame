@@ -75,7 +75,7 @@ public class BeltView extends JLabel implements BeltObserver, ActionListener {
 	// collect information for plate
 	// put plate info in a JOptionPane
 	public void actionPerformed(ActionEvent e) {
-		 
+		
 		// for loop for checking action command equal to plate
 		JFrame plateFrame = new JFrame();
 			JPanel platePanel = new JPanel();
@@ -120,4 +120,5 @@ public class BeltView extends JLabel implements BeltObserver, ActionListener {
 		
 		
 		}
+	
 	}
